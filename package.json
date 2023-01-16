@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.stencil-ktar1thn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve zUP8RPJ0epVaWyYE1VCh --open"
+  }
+}
